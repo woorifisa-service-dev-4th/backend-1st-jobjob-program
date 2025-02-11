@@ -18,7 +18,7 @@ input과 Output으로 출력되는 텍스트에 대한 제한은 없습니다만
 
 ![image](https://github.com/user-attachments/assets/f56c0609-2ad8-46f5-b20e-b7f3a2e9a883)
 
-3. 원하는 날짜 입력
+2. 원하는 날짜 입력
    
   2-1. 잘못된 날짜 형식을 입력할 경우
   
