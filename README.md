@@ -28,4 +28,16 @@ input과 Output으로 출력되는 텍스트에 대한 제한은 없습니다만
   
    ![image](https://github.com/user-attachments/assets/e9ad4d96-7c80-4ff9-b943-5d6b60374b99)
 
+
+
+
+
+## Launch4j
+![image](https://github.com/user-attachments/assets/545496d6-6bbd-48df-a21e-13de4da30fb2)
+> Launch4j를 사용해 exe 파일로 변환하면 cmd에 해당 jar파일을 직접실행하지 않아도 바로 실행이 가능합니다.
+
+
+> exe파일로 실행
+![image](https://github.com/user-attachments/assets/4c87ba6c-dab5-4716-86df-6a52b239f622)
+
    
